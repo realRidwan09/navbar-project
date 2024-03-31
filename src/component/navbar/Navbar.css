@@ -1,0 +1,22 @@
+
+
+#child{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#navdiv{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-right: 20px;
+
+}
+
+
+h1{
+    text-align: center;
+
+}
+
